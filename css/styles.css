@@ -1,0 +1,230 @@
+/*------------------------------------------------------------------ 
+    IMPORT FONTS 
+-------------------------------------------------------------------*/
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i');
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+
+h3{
+  font-size: 42px;
+  font-weight: 500;
+  color: tomato;
+  text-align: center;
+  padding: 25px;  
+}
+
+h4{
+  font-size: 16px;
+  font-weight: 500;
+  color: rgb(0, 0, 0);
+  text-align: right;
+  padding: 5px;  
+}
+
+p{
+  font-size: 18px;
+  color: black;
+  text-align: justify;
+  padding: 25px;
+}
+
+.container{
+  position: absolute;
+  width: 100%;
+  height: 80%;
+  display: grid;
+  /*justify-content: center;
+  align-items: center;*/
+  background-color:white ;
+}
+
+img{
+  height: auto;
+  width: auto;
+  max-width: 1140px;
+  max-height: 1000px;
+}
+
+.img-logos{
+  position: relative;
+  
+}
+
+.img{
+  width: 95%;
+  max-width: 480px;
+  margin-left: 25px;
+}
+
+body {
+	font-family: "Poppins", sans-serif;
+  color: black;
+  background-color: snow;
+ 
+  margin-top: 0.5rem;
+  max-width: 900px;
+}
+
+/* Tablas */
+
+.row > div{
+  background: #cccccc;
+  padding: 10px;
+  border: 1px solid grey;
+}
+
+.border-box {
+    box-sizing: border-box;
+      }
+
+.container-fluid{
+    
+  }
+
+.height-row{
+
+  height: 50px;
+}
+
+.full{
+  float: left;
+  width: 100%;
+}
+
+/* task1 */
+
+.item{
+  padding: 1px;
+  /*border: 4px solid #ff5800;*/
+  border-radius:2px ;
+  
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.25);
+}
+
+.height{
+  height: 50vh;
+}
+
+
+.task-3.container-1{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: max-content max-content ;
+  grid-template-areas: 
+  "header1 header2 header3";
+}
+
+.task-3.container-2{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-template-areas: 
+  "subheader1";
+  background-color: #ff5800;
+  align-items: center;
+  
+ 
+}
+
+.task-3.container-3{
+  display: grid;
+  height: 80vh;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 1fr auto auto;
+  grid-template-areas: 
+    "contenido1 contenido2 "
+    "footer-logos footer-menu";
+}
+
+.task-3.container-4{
+  display: grid;
+  grid-template-columns: repeat(1,1fr);
+  align-items: center;
+}
+
+.header-1{
+  grid-area: header1;
+  grid-template-columns: 1/3;
+}
+
+.header-2{
+  grid-area: header2;
+}
+
+.header-3{
+  grid-area: header3;
+}
+
+.subheader-1{
+  grid-area: subheader1;
+  grid-column: 1/2;
+  background-color: #ff5800;
+ 
+
+}
+.subheader-2{
+  grid-area: subheader1;
+  grid-column: 3/3;
+  background-color: #ff5800;
+  
+}
+
+
+.contenido-1{
+  grid-area: contenido1;
+  
+}
+
+.contenido-2{
+  grid-area: contenido2;
+  grid-template-rows: auto 1fr auto;
+}
+
+.contenido-3{
+  grid-area: contenido3;
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-columns: auto auto;
+  padding: 10px;
+}
+
+.contenido-4{
+  grid-area: contenido4;
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-columns: repeat(3,1fr);
+  grid-column: 2/2;
+  padding: 5px;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.footer-logos{
+grid-area: footer-logos;
+background-color: #e5e5e5;
+}
+
+.footer-menu{
+grid-area: footer-menu;
+background-color: #e5e5e5;
+display: grid;
+grid-template-columns: auto auto auto auto auto;
+gap: 10px;
+}  
+
+select{
+width: 50%;
+height: 60%;
+background-color: #ff5800;
+}
+
+
+

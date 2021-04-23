@@ -1,0 +1,225 @@
+
+.Pag1-U1{
+    display: grid;
+    background-image: url("../Imagenes/ImagesUnit1/pag3/images_07.png");
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.Pag2-U1{
+    display: grid;
+    background-image: url("../Imagenes/ImagesUnit1/pag4/images_08.png");
+    background-size:cover; 
+    background-attachment: scroll;
+
+}
+
+.Pag3-U1{
+    display: grid;
+    background-image: url("../Imagenes/ImagesUnit1/pag5/images_07.png");
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.Pag3-U1-2{
+    
+    display: grid;
+    background-image: url("../Imagenes/ImagesUnit1/pag5/images_09.png");
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.Pag4-U1{
+    display: grid;
+    background-image: url("../Imagenes/ImagesUnit1/pag4/images_08.png");
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.Pag6-U1{
+    
+    display: grid;
+    background-image: url("../Imagenes/ImagesUnit1/pag9/images_10.png");
+    /* background-size: cover; */
+    background-attachment: scroll;
+    background-size: 300px;
+    
+}
+
+.Pag9-U1{
+    display: grid;
+    background-image: url("../Imagenes/ImagesUnit1/pag15/image_08.png");
+    background-size: cover;
+    background-attachment: scroll;
+    grid-column: 1/3;
+}
+
+.Pag17-U1{
+    display: grid;
+    background-image: url("../Imagenes/ImagesUnit1/pag23/images_08.png");
+    background-size: cover;
+    background-attachment: scroll;
+
+}
+
+
+/* IMAGENES UNIDAD 2 */
+
+.Pag6-U1-2{
+    
+    display: grid;
+    background-image: url("../Imagenes/ImagesUnit1/pag9/images_08.png");
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+
+
+.Pag3-U2{
+    
+    display: grid;
+    background-image: url("../Imagenes/ImagesUnit2/Pag3/unit2__3_03.png");
+    background-size: cover;
+    /* margin-top: 5%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-bottom: 5%; */
+    /* grid-template-rows:20px 150px 20px ; */
+}
+
+.Pag11-U2{
+    display: grid;
+    background-image: url("../ImagesUnit2/Pag11/unit2__11_07.png");
+    background-size: cover;
+}
+
+.Pag14-U2{
+    display: grid;
+    background-image: url("../Imagenes/ImagesUnit2/Pag14/unit2__14_07.png");
+    background-size: cover;
+}
+
+/* UNIDAD - 3 */
+
+.Pag1-U3{
+    display: grid;
+    background-image: url("../Imagenes/ImagesUnit3/C1/PAG1_07.png");
+    background-size: cover;
+   
+    
+}
+
+.Pag3-U3{
+    display: grid;
+    background-image: url('../Imagenes/ImagesUnit3/C3/PAG3_08.png');
+    background-size: cover;
+}
+
+.Pag5-U3{
+    display: grid;
+    background-size: cover;
+    background-image: url('../Imagenes/ImagesUnit3/C5/PAG5_09.png');
+}
+
+.Pag6-U3{
+    display: grid;
+    background-image: url('../Imagenes/ImagesUnit3/C6/PAG6_total.png');
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.Pag15-U3{
+    display: grid;
+    background-image: url('../Imagenes/ImagesUnit3/C15/PAG15_10.png');
+    background-size: cover;
+    
+}
+
+/* UNIDAD - 4 */
+
+.Pag5-U4{
+    display: grid;
+    background-image: url('../Imagenes/ImagesUnit4/C5/PAG5_Total.png');
+    background-size: cover;
+}
+
+.Pag8-U4{
+    display: grid;
+    background-image: url('../Imagenes/ImagesUnit4/C8/PAG8_07.png');
+    background-size: cover;
+}
+
+.Pag13-U4{
+display: grid;
+background-image: url('../Imagenes/ImagesUnit4/C13/pag13_07.png');
+background-size: cover;
+}
+
+
+/* UNIDAD - 5 */
+
+.Pag1-U5{
+    display: grid;
+    background-image: url('../Imagenes/ImagesUnit5/C1/PAG1_07.png');
+    background-size: cover;
+}
+
+.Pag3-U5{
+    display: grid;
+    background-size: cover;
+    background-image: url('../Imagenes/ImagesUnit5/C3/pag3_08.png');
+
+}
+
+.Pag4-U5{
+    display: grid;
+    background-image: url('../Imagenes/ImagesUnit5/C4/pag4_08.png');
+    background-size: cover;
+}
+
+.Pag5-U5{
+    display: grid;
+    background-image: url('../Imagenes/ImagesUnit5/C5/PAG5_08.png');
+    background-size: cover;
+
+}
+
+.Pag11-U5{
+    display: grid;
+    background-image: url('../Imagenes/ImagesUnit5/C11/PAG11_07.png');
+    background-size: cover;
+}
+
+
+/* UNIDAD - 6 */
+
+.Pag1-U6{
+    display: grid;
+    background-image: url('../Imagenes/ImagesUnit6/C1/PAG1_07.png');
+    background-size: cover;
+}
+
+.Pag5-U6{
+    display: grid;
+    background-image: url('../Imagenes/ImagesUnit6/C5/PAG5_07.png');
+    background-size: cover;
+}
+
+.Pag6-U6{
+    display: grid;
+    background-image: url('../Imagenes/ImagesUnit6/C6/PAG6_07.png');
+    background-size: cover;
+}
+
+.Pag7-U6{
+    display: grid;
+    background-image: url('../Imagenes/ImagesUnit6/C7/PAG7_09.png');
+    background-size: cover;
+}
+
+.Pag8-U6{
+    display: grid;
+    background-image: url('../Imagenes/ImagesUnit6/C8/PAG8_10.png');
+    background-size: cover;
+}
+

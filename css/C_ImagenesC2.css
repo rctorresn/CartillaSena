@@ -1,0 +1,129 @@
+
+.Pag1-U1{
+    display: grid;
+    background-image: url("../Imagenes/Cartilla-2-RRHH/ImagesUnit1-RRHH/pag3/PAG3_06.png");
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.Pag2-U1{
+    display: grid;
+    background-image: url('../Imagenes/Cartilla-2-RRHH/ImagesUnit1-RRHH/pag5/PAG5_07.png');
+    background-size: cover;
+}
+
+.Pag5-U1{
+    display: grid;
+    background-image: url('../Imagenes/Cartilla-2-RRHH/ImagesUnit1-RRHH/Pag7/PAG7_06.png');
+    background-size: cover;
+}
+
+.Pag6-U1{
+    display: grid;
+    background-image: url('../Imagenes/Cartilla-2-RRHH/ImagesUnit1-RRHH/pag8/PAG8_08.png');
+    background-size: cover;
+
+}
+
+.Pag12-U1{
+    display: grid;
+    background-image: url('../Imagenes/Cartilla-2-RRHH/ImagesUnit1-RRHH/Pag14/PAG14_07.png');
+    background-size: cover;
+}
+
+.Pag13-U1{
+    display: grid;
+    background-image: url('../Imagenes/Cartilla-2-RRHH/ImagesUnit1-RRHH/pag15/PAG15_06.png');
+    background-size: cover;
+}
+
+
+/* UNIDAD - 2 */
+
+.Pag1-U2{
+    display: grid;
+    background-image: url('../Imagenes/Cartilla-2-RRHH/ImagesUnit2-RRHH/Pag1/PAG1_05.png');
+    background-size: cover;
+
+}
+
+.Pag3-U2{
+    display: grid;
+    background-image: url('../Imagenes/Cartilla-2-RRHH/ImagesUnit2-RRHH/Pag3/PAG3_06.png');
+    background-size: cover;
+}
+
+.Pag4-U2{
+    display: grid;
+    background-image: url('../Imagenes/Cartilla-2-RRHH/ImagesUnit2-RRHH/Pag4/PAG4_06.png');
+    background-size: cover;
+}
+
+.Pag6-U2{
+    display: grid;
+    background-image: url('../Imagenes/Cartilla-2-RRHH/ImagesUnit2-RRHH/Pag6/PAG6_06.png');
+    background-size: cover;
+}
+
+.Pag7-U2{
+    display: grid;
+    background-image: url('../Imagenes/Cartilla-2-RRHH/ImagesUnit2-RRHH/Pag7/PAG7_08.png');
+    background-size: cover;
+}
+
+.Pag13-U2{
+    display: grid;
+    background-image: url('');
+    background-size: cover;
+}
+
+
+/* UNIDAD-3 */
+
+.Pag1-U3{
+    display: grid;
+    background-image: url('../Imagenes/Cartilla-2-RRHH/ImagesUnit3-RRHH/Pag1/PAG1_06.png');
+    background-size: cover;
+}
+
+.Pag2-U3{
+    display: grid;
+    background-image: url('../Imagenes/Cartilla-2-RRHH/ImagesUnit3-RRHH/Pag2/PAG2_06.png');
+    background-size: cover;
+}
+
+.Pag3-U3{
+    display: grid;
+    background-image: url('../Imagenes/Cartilla-2-RRHH/ImagesUnit3-RRHH/Pag3/PAG3_07.png');
+    background-size: cover;
+}
+
+.Pag5-U3{
+    display: grid;
+    background-image: url('../Imagenes/Cartilla-2-RRHH/ImagesUnit3-RRHH/Pag5/PAG5_08.png');
+    background-size: cover;
+}
+
+.Pag7-U3{
+    display: grid;
+    background-image: url('../Imagenes/Cartilla-2-RRHH/ImagesUnit3-RRHH/Pag7/PAG7_07.png');
+    background-size: cover;
+}
+
+.Pag8-U3{
+    display: grid;
+    background-image: url('../Imagenes/Cartilla-2-RRHH/ImagesUnit3-RRHH/Pag8/PAG8_06.png');
+    background-size: cover;
+}
+
+.Pag11-U3{
+    display: grid;
+    background-image: url('../Imagenes/Cartilla-2-RRHH/ImagesUnit3-RRHH/Pag11/PAG11_07.png');
+    background-size: cover;
+}
+
+.Pag13-U3{
+    display: grid;
+    background-image: url('../Imagenes/Cartilla-2-RRHH/ImagesUnit3-RRHH/Pag13/PAG13_07.png');
+    background-size: cover;
+}
